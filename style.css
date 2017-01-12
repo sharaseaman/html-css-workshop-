@@ -19,3 +19,8 @@ img {
 #secondImage {
  width: 70%; 
 }
+
+a:visited {
+ color: yellow;
+ background-color: blue;
+}
