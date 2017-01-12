@@ -8,6 +8,10 @@ h2 {
   background-color: turquoise;
 }
 
+img {
+ width: 10px; 
+}
+
 #firstImage {
  width: 400px;
 }
