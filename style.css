@@ -9,13 +9,13 @@ h2 {
 }
 
 img {
- width: 10px; 
+ width: 100px; 
 }
 
 #firstImage {
- width: 1000px;
+ width: 20%;
 }
 
 #secondImage {
- width: 400px; 
+ width: 70%; 
 }
